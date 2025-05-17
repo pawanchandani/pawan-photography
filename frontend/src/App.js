@@ -1,0 +1,1 @@
+// React main App component with gallery and upload logic
